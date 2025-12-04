@@ -1,5 +1,5 @@
 /** 
- * example of a java program for the Apasoft Training Jenkins course
+ * Practica 03: Compilar y ejecutar un programa en JAVA.
  */
 
 public class Example {
